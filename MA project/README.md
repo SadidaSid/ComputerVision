@@ -1,5 +1,5 @@
 Objective:
-Our project aim is to train a custom built CNN model to detect pictures(patches) having eye lesion( MA-microaneurysm) by using ground truth(pictures having  coordinates of lesions manually detected by doctors) .The ground truth images were two large and so we divided them into patches of size(28*28).So our agenda is to mark a particular  patch(picture) into one of the two catogeries: MA and non-MA. 
+Our project aim is to train a custom built CNN model to detect pictures(patches) having eye lesion( MA-microaneurysm) by using ground truth(pictures having  coordinates of lesions manually detected by doctors) .The ground truth images were too large and so we divided them into patches of size(28*28).So our agenda is to mark a particular  patch(picture) into one of the two catogeries: MA and non-MA. 
 
 MA= class or patch having lesion
 non-Ma= class or patch having no lesion
